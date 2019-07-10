@@ -1,0 +1,310 @@
+item {
+  id: 1
+  name: 'Apple'
+}
+
+item {
+  id: 2
+  name: 'Beer'
+}
+
+item {
+  id: 3
+  name: 'Croissant'
+}
+
+item {
+  id: 4
+  name: 'Cucumber'
+}
+
+item {
+  id: 5
+  name: 'Radish'
+}
+
+item {
+  id: 6
+  name: 'Hot dog'
+}
+
+item {
+  id: 7
+  name: 'Waffle'
+}
+
+item {
+  id: 8
+  name: 'Pancake'
+}
+
+item {
+  id: 9
+  name: 'Pretzel'
+}
+
+item {
+  id: 10
+  name: 'Bagel'
+}
+
+item {
+  id: 11
+  name: 'Burrito'
+}
+
+item {
+  id: 12
+  name: 'Cheese'
+}
+
+item {
+  id: 13
+  name: 'Muffin'
+}
+
+item {
+  id: 14
+  name: 'Juice'
+}
+
+item {
+  id: 15
+  name: 'Cookie'
+}
+
+item {
+  id: 16
+  name: 'Zucchini'
+}
+
+item {
+  id: 17
+  name: 'Winter melon'
+}
+
+item {
+  id: 18
+  name: 'Guacamole'
+}
+
+item {
+  id: 19
+  name: 'French fries'
+}
+
+item {
+  id: 20
+  name: 'Egg'
+}
+
+item {
+  id: 21
+  name: 'Grape'
+}
+
+item {
+  id: 22
+  name: 'Milk'
+}
+
+item {
+  id: 23
+  name: 'Mushroom'
+}
+
+item {
+  id: 24
+  name: 'Potato'
+}
+
+item {
+  id: 25
+  name: 'Pasta'
+}
+
+item {
+  id: 26
+  name: 'Pumpkin'
+}
+
+item {
+  id: 27
+  name: 'Pear'
+}
+
+item {
+  id: 28
+  name: 'Pizza'
+}
+
+item {
+  id: 29
+  name: 'Sushi'
+}
+
+item {
+  id: 30
+  name: 'Strawberry'
+}
+
+item {
+  id: 31
+  name: 'Tomato'
+}
+
+item {
+  id: 32
+  name: 'Wine'
+}
+
+item {
+  id: 33
+  name: 'Squid'
+}
+
+item {
+  id: 34
+  name: 'Lemon'
+}
+
+item {
+  id: 35
+  name: 'Banana'
+}
+
+item {
+  id: 36
+  name: 'Hamburger'
+}
+
+item {
+  id: 37
+  name: 'Lobster'
+}
+
+item {
+  id: 38
+  name: 'Asparagus'
+}
+
+item {
+  id: 39
+  name: 'Ice cream'
+}
+
+item {
+  id: 40
+  name: 'Orange'
+}
+
+item {
+  id: 41
+  name: 'Peach'
+}
+
+item {
+  id: 42
+  name: 'Coconut'
+}
+
+item {
+  id: 43
+  name: 'Shellfish'
+}
+
+item {
+  id: 44
+  name: 'Cabbage'
+}
+
+item {
+  id: 45
+  name: 'Carrot'
+}
+
+item {
+  id: 46
+  name: 'Mango'
+}
+
+item {
+  id: 47
+  name: 'Pineapple'
+}
+
+item {
+  id: 48
+  name: 'Cake'
+}
+
+item {
+  id: 49
+  name: 'Candy'
+}
+
+item {
+  id: 50
+  name: 'Salad'
+}
+
+item {
+  id: 51
+  name: 'Broccoli'
+}
+
+item {
+  id: 52
+  name: 'Pastry'
+}
+
+item {
+  id: 53
+  name: 'Grapefruit'
+}
+
+item {
+  id: 54
+  name: 'Bell pepper'
+}
+
+item {
+  id: 55
+  name: 'Turkey'
+}
+
+item {
+  id: 56
+  name: 'Pomegranate'
+}
+
+item {
+  id: 57
+  name: 'Doughnut'
+}
+
+item {
+  id: 58
+  name: 'Watermelon'
+}
+
+item {
+  id: 59
+  name: 'Cantaloupe'
+}
+
+item {
+  id: 60
+  name: 'Sandwich'
+}
+
+item {
+  id: 61
+  name: 'Shrimp'
+}
+
+item {
+  id: 62
+  name: 'Crab'
+}
+
